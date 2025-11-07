@@ -1,78 +1,79 @@
-# 🚦 Análisis de Accidentes de Tráfico — Power BI Dashboard
+# 🚦 Traffic Accident Analysis — Power BI Dashboard
 
-Este proyecto consiste en el desarrollo de un **dashboard interactivo en Power BI** para analizar datos de accidentes de tráfico. El objetivo es comprender mejor **cómo, cuándo y por qué** ocurren los accidentes, permitiendo detectar patrones relevantes y facilitar la toma de decisiones orientadas a mejorar la seguridad vial.
-
----
-
-## 🎯 Objetivos del Análisis
-
-El dashboard se centra en responder una serie de preguntas clave:
-
-1. **¿En qué meses se registran más accidentes?**  
-   Permite identificar estacionalidad o periodos de mayor riesgo.
-
-2. **¿Cómo se distribuyen los accidentes a lo largo del día?**  
-   Muestra si existen franjas horarias especialmente conflictivas.
-
-3. **¿Cuál es el impacto económico de los accidentes?**  
-   Analiza el coste total asociado a los siniestros.
-
-4. **¿Cuáles son las causas más frecuentes de los accidentes?**  
-   Esto permite orientar estrategias de prevención.
-
-5. **Comparación entre años:** ¿Aumentan o disminuyen los accidentes?  
-   Útil para detectar tendencias a largo plazo.
-
-6. **Dispositivos de control de tráfico:**  
-   Se analiza si su presencia se relaciona con la reducción o aparición de accidentes.
-
-7. **Tipos de vías y nivel de riesgo:**  
-   Identifica qué carreteras o zonas requieren más acciones preventivas.
-
-8. **Severidad de los accidentes:**  
-   Proporción de accidentes con lesiones leves, graves o muertes.
+This project consists of developing an **interactive Power BI dashboard** to analyze traffic accident data.  
+The main goal is to better understand **how, when, and why** accidents occur, allowing the identification of relevant patterns and supporting decision-making to improve road safety.
 
 ---
 
-## 🧠 Tecnologías Utilizadas
+## 🎯 Analysis Objectives
 
-| Herramienta | Uso |
-|------------|-----|
-| **Power BI** | Construcción del dashboard y visualizaciones |
-| **Power Query** | Limpieza y transformación de datos |
-| **DAX** | Cálculos de métricas y medidas personalizadas |
-| **Excel** | Fuente de datos original |
+The dashboard focuses on answering several key questions:
 
----
+1. **In which months do the most accidents occur?**  
+   Helps identify seasonality or high-risk periods.
 
-##  📂 Contenido del Repositorio
- dataset/ → Datos originales utilizados
- images/ → Capturas del dashboard
- dashboard.pbix → Archivo principal de Power BI
- README.md → Documentación del proyecto
+2. **How are accidents distributed throughout the day?**  
+   Highlights whether there are particularly critical time ranges.
 
----
+3. **What is the economic impact of accidents?**  
+   Examines the total cost associated with traffic incidents.
 
+4. **What are the most frequent causes of accidents?**  
+   Useful for guiding prevention strategies.
 
-## 🖼️ Vista Previa del Dashboard
+5. **Year-to-year comparison:** Are accidents increasing or decreasing?  
+   Allows the detection of long-term trends.
 
-| Página 1 | Página 2 |
-|---------|----------|
-| ![Dashboard Página 1](P1_Traffic_Accidents_Dashboard.png) | ![Dashboard Página 2](P2_Traffic_Accidents_Dashboard.png) |
+6. **Traffic control devices:**  
+   Analyzes whether their presence is related to the reduction or occurrence of accidents.
 
----
+7. **Road types and associated risk levels:**  
+   Identifies which areas or road types require additional preventive action.
 
-## 🚀 Cómo abrir el proyecto
-
-1. Descarga el archivo `PowerBI_Traffic_Accidents_Dashboard.pbix`.
-2. Ábrelo con **Power BI Desktop**.
+8. **Severity of accidents:**  
+   Proportion of accidents resulting in minor injuries, serious injuries, or fatalities.
 
 ---
 
+## 🧠 Technologies Used
 
-## 🧑‍💻 Autor
+| Tool | Purpose |
+|------|---------|
+| **Power BI** | Dashboard creation and data visualization |
+| **Power Query** | Data cleaning and transformation |
+| **DAX** | Custom metric and measure calculations |
+| **Excel** | Original data source |
 
-*Hugo Crespo*
+---
+
+## 📂 Repository Structure
+
+dataset/ → Original dataset used
+images/ → Dashboard screenshots
+dashboard.pbix → Main Power BI dashboard file
+README.md → Project documentation
+
+
+---
+
+## 🖼️ Dashboard Preview
+
+| Page 1 | Page 2 |
+|-------|--------|
+| ![Dashboard Page 1](P1_Traffic_Accidents_Dashboard.png) | ![Dashboard Page 2](P2_Traffic_Accidents_Dashboard.png) |
+
+---
+
+## 🚀 How to Open the Project
+
+1. Download the file `PowerBI_Traffic_Accidents_Dashboard.pbix`.
+2. Open it using **Power BI Desktop**.
+
+---
+
+## 🧑‍💻 Author
+
+**Hugo Crespo**
 
 
 
