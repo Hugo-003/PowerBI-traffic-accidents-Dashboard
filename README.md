@@ -46,16 +46,6 @@ The dashboard focuses on answering several key questions:
 
 ---
 
-## 📂 Repository Structure
-
-dataset/ → Original dataset used
-images/ → Dashboard screenshots
-dashboard.pbix → Main Power BI dashboard file
-README.md → Project documentation
-
-
----
-
 ## 🖼️ Dashboard Preview
 
 | Page 1 | Page 2 |
