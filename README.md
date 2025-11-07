@@ -67,5 +67,3 @@ The dashboard focuses on answering several key questions:
 
 
 
-## 📂 Contenido del Repositorio
-
